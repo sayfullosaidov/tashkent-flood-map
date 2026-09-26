@@ -63,7 +63,7 @@ Therefore:
 
 This is one of the main uncertainties in the project.
 
-**TODO:** https://www.gazeta.uz/oz/2023/07/24/floods/
+**Source:** https://www.gazeta.uz/oz/2023/07/24/floods/
 
 ---
 
