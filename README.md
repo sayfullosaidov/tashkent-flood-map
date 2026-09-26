@@ -63,7 +63,7 @@ Therefore:
 
 This is one of the main uncertainties in the project.
 
-**TODO:** Add the relevant Statistics Agency article/citation here if it is used to justify population distribution, urban coverage, or another part of the pseudo-non-flood sampling strategy.
+**TODO:** https://www.gazeta.uz/oz/2023/07/24/floods/
 
 ---
 
