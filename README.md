@@ -4,8 +4,8 @@ Machine-learning-based **urban flood susceptibility mapping for Tashkent, Uzbeki
 
 Authors: 
 Sayfullo Saidov, Undergraduate at Princeton University
-Salohiddin Abdufattoxov, Undergraduate at Politecnico di Torino
-Temur Khujanazarov, Specially-Appointed Assistant Professor at Kyoto University
+\n Salohiddin Abdufattoxov, Undergraduate at Politecnico di Torino
+\n Temur Khujanazarov, Specially-Appointed Assistant Professor at Kyoto University
 
 ## Project Goal
 
