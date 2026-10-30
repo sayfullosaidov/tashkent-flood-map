@@ -2,6 +2,11 @@
 
 Machine-learning-based **urban flood susceptibility mapping for Tashkent, Uzbekistan** using historical flood observations, open geospatial data, Google Earth Engine (GEE), Random Forest, and Support Vector Machine.
 
+Authors: 
+Sayfullo Saidov, Undergraduate at Princeton University
+Salohiddin Abdufattoxov, Undergraduate at Politecnico di Torino
+Temur Khujanazarov, Specially-Appointed Assistant Professor at Kyoto University
+
 ## Project Goal
 
 The goal of this project is to identify areas of Tashkent whose environmental characteristics are similar to locations where flooding has historically been observed.
