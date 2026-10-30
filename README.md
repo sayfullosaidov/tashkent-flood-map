@@ -8,6 +8,8 @@ Machine-learning-based **urban flood susceptibility mapping for Tashkent, Uzbeki
 - **Salohiddin Abdufattoxov** — Undergraduate Student, Politecnico di Torino
 - **Temur Khujanazarov** — Specially-Appointed Assistant Professor, Kyoto University
 
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
+
 ## Project Goal
 
 The goal of this project is to identify areas of Tashkent whose environmental characteristics are similar to locations where flooding has historically been observed.
